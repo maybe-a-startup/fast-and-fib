@@ -1,0 +1,13 @@
+html, body {
+    background-color: aliceblue;
+}
+
+input{
+    border-radius: 30px;
+}
+
+.form_class {
+    margin-top: 10%;
+    margin-left: 40%;
+}
+
